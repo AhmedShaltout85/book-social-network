@@ -1,4 +1,4 @@
-services:
+services: '3'
   postgres:
     container_name: postgres-sql-bsn
     image: postgres
